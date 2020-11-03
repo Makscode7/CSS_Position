@@ -1,0 +1,37 @@
+body {
+margin: 0;
+}
+
+.box {
+width: 200px;
+height: 200px;
+background: aqua;
+}
+
+.position1 {
+position: fixed;
+
+left: 10vmin;
+top: 10vmin;
+}
+
+.position2 {
+position: fixed;
+
+top: 10vmin;
+right: 10vmin;
+}
+
+.position3 {
+position: fixed;
+
+bottom: 10vmin;
+right: 10vmin;
+}
+
+.position4 {
+position: fixed;
+
+left: 10vmin;
+bottom: 10vmin;
+}
